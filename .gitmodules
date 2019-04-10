@@ -1,0 +1,3 @@
+[submodule "Index/vendor/GLFW"]
+	path = Index/vendor/GLFW
+	url = https://github.com/nduplessis11/glfw.git
