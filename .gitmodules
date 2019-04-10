@@ -1,3 +1,0 @@
-[submodule "Index/vendor/glfw"]
-	path = Index/vendor/glfw
-	url = https://github.com/glfw/glfw.git
